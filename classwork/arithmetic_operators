@@ -1,0 +1,21 @@
+# Python program to perform arithmetic operations
+
+# Taking input from user
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))
+
+# Arithmetic operations
+addition = a + b
+subtraction = a - b
+multiplication = a * b
+division = a / b
+modulus = a % b
+exponent = a ** b
+
+# Printing results
+print("Addition:", addition)
+print("Subtraction:", subtraction)
+print("Multiplication:", multiplication)
+print("Division:", division)
+print("Modulus:", modulus)
+print("Exponent:", exponent)
